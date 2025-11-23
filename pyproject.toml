@@ -8,7 +8,10 @@ version = "3.0.0"
 description = "Bilingual launcher for AI coding agents (Codex & Claude) with review and loop modes"
 readme = "README.md"
 authors = [
-    {name = "Agent Launcher Contributors"}
+    {name = "Actigence Management Consulting", email = "hello@actigence.eu"}
+]
+maintainers = [
+    {name = "Actigence Management Consulting", email = "hello@actigence.eu"}
 ]
 license = {text = "MIT"}
 classifiers = [
@@ -55,11 +58,13 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Actigence-Code/agent-launcher"
+Homepage = "https://actigence.eu"
 Documentation = "https://github.com/Actigence-Code/agent-launcher#readme"
 Repository = "https://github.com/Actigence-Code/agent-launcher.git"
 "Bug Tracker" = "https://github.com/Actigence-Code/agent-launcher/issues"
 Changelog = "https://github.com/Actigence-Code/agent-launcher/blob/main/CHANGELOG.md"
+"Source Code" = "https://github.com/Actigence-Code/agent-launcher"
+Contact = "mailto:hello@actigence.eu"
 
 [project.scripts]
 agent = "agent:main"

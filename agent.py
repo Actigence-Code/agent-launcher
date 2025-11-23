@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 """
+Agent Launcher - Bilingual launcher for AI coding agents
+
 English:
     Agent launcher that guides you through choosing either Codex or Claude,
     and whether to activate the dangerous sandbox/approval bypass switches.
@@ -12,7 +14,17 @@ Français :
     et validations. NOUVEAU : Mode relecture pour validation transparente entre agents
     et mode boucle pour améliorations itératives.
     Parfait pour garantir un flux de travail cohérent depuis n'importe quel terminal.
+
+Made with ❤️ in Tervuren, Belgium
+Copyright (c) 2025 Actigence Management Consulting
+Website: https://actigence.eu
+Contact: hello@actigence.eu
 """
+
+__version__ = "3.0.0"
+__author__ = "Actigence Management Consulting"
+__email__ = "hello@actigence.eu"
+__url__ = "https://actigence.eu"
 
 from __future__ import annotations
 

@@ -339,6 +339,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Issues**: [GitHub Issues](https://github.com/Actigence-Code/agent-launcher/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Actigence-Code/agent-launcher/discussions)
 - **Documentation**: [Wiki](https://github.com/Actigence-Code/agent-launcher/wiki)
+- **Email**: [hello@actigence.eu](mailto:hello@actigence.eu)
+- **Website**: [actigence.eu](https://actigence.eu)
 
 ## 🗺️ Roadmap
 
@@ -351,4 +353,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by the AI coding community
+**Made with ❤️ in Tervuren, Belgium**
+
+[Actigence Management Consulting](https://actigence.eu) | [hello@actigence.eu](mailto:hello@actigence.eu)
