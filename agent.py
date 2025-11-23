@@ -21,7 +21,7 @@ Website: https://actigence.eu
 Contact: hello@actigence.eu
 """
 
-__version__ = "3.0.0"
+__version__ = "3.0.1"
 __author__ = "Actigence Management Consulting"
 __email__ = "hello@actigence.eu"
 __url__ = "https://actigence.eu"

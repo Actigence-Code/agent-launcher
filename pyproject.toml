@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "agent-launcher"
-version = "3.0.0"
+version = "3.0.1"
 description = "Bilingual launcher for AI coding agents (Codex & Claude) with review and loop modes"
 readme = "README.md"
 authors = [
@@ -64,7 +64,6 @@ Repository = "https://github.com/Actigence-Code/agent-launcher.git"
 "Bug Tracker" = "https://github.com/Actigence-Code/agent-launcher/issues"
 Changelog = "https://github.com/Actigence-Code/agent-launcher/blob/main/CHANGELOG.md"
 "Source Code" = "https://github.com/Actigence-Code/agent-launcher"
-Contact = "mailto:hello@actigence.eu"
 
 [project.scripts]
 agent = "agent:main"
