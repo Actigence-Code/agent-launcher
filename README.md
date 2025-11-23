@@ -32,7 +32,7 @@ pip install agent-launcher
 
 ```bash
 # Download the script
-curl -o agent.py https://raw.githubusercontent.com/yourusername/agent-launcher/main/agent.py
+curl -o agent.py https://raw.githubusercontent.com/Actigence-Code/agent-launcher/main/agent.py
 
 # Make it executable
 chmod +x agent.py
@@ -44,7 +44,7 @@ chmod +x agent.py
 ### Option 3: From Source
 
 ```bash
-git clone https://github.com/yourusername/agent-launcher.git
+git clone https://github.com/Actigence-Code/agent-launcher.git
 cd agent-launcher
 pip install -e .
 ```
@@ -311,7 +311,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ### Development Setup
 
 ```bash
-git clone https://github.com/yourusername/agent-launcher.git
+git clone https://github.com/Actigence-Code/agent-launcher.git
 cd agent-launcher
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -336,9 +336,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/agent-launcher/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/agent-launcher/discussions)
-- **Documentation**: [Wiki](https://github.com/yourusername/agent-launcher/wiki)
+- **Issues**: [GitHub Issues](https://github.com/Actigence-Code/agent-launcher/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Actigence-Code/agent-launcher/discussions)
+- **Documentation**: [Wiki](https://github.com/Actigence-Code/agent-launcher/wiki)
 
 ## 🗺️ Roadmap
 

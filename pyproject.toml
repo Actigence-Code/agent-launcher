@@ -55,11 +55,11 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/agent-launcher"
-Documentation = "https://github.com/yourusername/agent-launcher#readme"
-Repository = "https://github.com/yourusername/agent-launcher.git"
-"Bug Tracker" = "https://github.com/yourusername/agent-launcher/issues"
-Changelog = "https://github.com/yourusername/agent-launcher/blob/main/CHANGELOG.md"
+Homepage = "https://github.com/Actigence-Code/agent-launcher"
+Documentation = "https://github.com/Actigence-Code/agent-launcher#readme"
+Repository = "https://github.com/Actigence-Code/agent-launcher.git"
+"Bug Tracker" = "https://github.com/Actigence-Code/agent-launcher/issues"
+Changelog = "https://github.com/Actigence-Code/agent-launcher/blob/main/CHANGELOG.md"
 
 [project.scripts]
 agent = "agent:main"
